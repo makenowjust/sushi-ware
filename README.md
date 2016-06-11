@@ -77,9 +77,21 @@ Thanks too! I am looking forward to meet you ;)
 
   - [github-sushi-ware-button](https://github.com/MakeNowJust/github-sushi-ware-button) Browser extension to add 🍣 button into GitHub projects (by [@MakeNowJust])
 
-If you apply this license to your software, you cam make [pull request](https://github.com/MakeNowJust/sushi-ware/pulls) to add it to this list.
+If you apply this license to your software, you cam make [pull request] to add it to this list.
+
+[pull request]: https://github.com/MakeNowJust/sushi-ware/pulls
 
 [@MakeNowJust]: https://github.com/MakeNowJust
+
+## Conribute
+
+If you found:
+
+  - a typo
+  - a better idea
+  - possible to translate to another languaue
+
+then you fix it and send [pull request].
 
 ## Copyright
 
