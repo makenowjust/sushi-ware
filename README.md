@@ -51,13 +51,13 @@ However, this license is not a joke. I'm welcome to your 🍣 present ;)
 
 ## FAQ
 
-> Is this license GPL compatibe?
+> Is this license GPL compatible?
 
 I think "yes", but sorry, I am not lawyer.
 
 > Why you make this license? Why sushi 🍣?
 
-I was interested in ["THE BEER-WARE LICENSE"], but I am 19 years old! (Japanese law dose not accept to drink alcohole 🍺 under 20.) I need a license like "THE BEER-WARE LICENSE" for me. At that time, I want to eat sushi 🍣, so I decide to make "THE SUSHI-WARE LICENSE".
+I was interested in ["THE BEER-WARE LICENSE"], but I am 19 years old! (Japanese law dose not accept to drink alcohol 🍺 under 20.) I need a license like "THE BEER-WARE LICENSE" for me. At that time, I wanted to eat sushi 🍣, so I decided to make "THE SUSHI-WARE LICENSE".
 
 ["THE BEER-WARE LICENSE"]: https://people.freebsd.org/~phk/
 
@@ -77,7 +77,7 @@ Thanks too! I am looking forward to meet you ;)
 
   - [github-sushi-ware-button](https://github.com/MakeNowJust/github-sushi-ware-button) Browser extension to add 🍣 button into GitHub projects (by [@MakeNowJust])
 
-If you apply this license to your software, you cam make [pull request] to add it to this list.
+If you apply this license to your software, you cam make a [pull request] to add it to this list.
 
 [pull request]: https://github.com/MakeNowJust/sushi-ware/pulls
 
