@@ -23,7 +23,7 @@ Are you interested? Yeah, let's apply **"THE SUSHI-WARE LICENSE"** to your softw
 
 ## How to apply
 
-(I recommend you to read below *Notice!* section.)
+(I recommend you read the *Notice!* section below.)
 
 That's easy :)
 
@@ -32,7 +32,7 @@ $ cd your/project/path
 $ curl -L https://git.io/sushi-ware > LICENSE.🍣.md
 ```
 
-Optionally, you can add such a badge to your `README.md`: [![SUSHI-WARE LICENSE](https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg)](https://github.com/MakeNowJust/sushi-ware)
+Optionally, you can add this badge to your `README.md`: [![SUSHI-WARE LICENSE](https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg)](https://github.com/MakeNowJust/sushi-ware)
 
 ```markdown
 [![SUSHI-WARE LICENSE](https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg)](https://github.com/MakeNowJust/sushi-ware)
@@ -40,7 +40,7 @@ Optionally, you can add such a badge to your `README.md`: [![SUSHI-WARE LICENSE]
 
 ### Notice!
 
-If you consider **"THE SUSHI-WARE LICENSE"** to your project seriousely, you should consider another license like [MIT] and [Apache-2.0] in the same way. Because this license is not approved by [OSI] and [FSF] unfortunantely. I cannot atonement if you get some damage.
+If you are seriously considering to add **"THE SUSHI-WARE LICENSE"** to your project, you should consider another license like [MIT] and [Apache-2.0] in the same way. Because this license is not approved by [OSI] and [FSF] unfortunately. I cannot atone for any possible damage.
 
 However, this license is not a joke. I'm welcome to your 🍣 present ;)
 
@@ -53,45 +53,45 @@ However, this license is not a joke. I'm welcome to your 🍣 present ;)
 
 > Is this license GPL compatible?
 
-I think "yes", but sorry, I am not lawyer.
+I think "yes", but sorry, I'm not a lawyer.
 
-> Why you make this license? Why sushi 🍣?
+> Why did you make this license? Why sushi 🍣?
 
-I was interested in ["THE BEER-WARE LICENSE"], but I am 19 years old! (Japanese law dose not accept to drink alcohol 🍺 under 20.) I need a license like "THE BEER-WARE LICENSE" for me. At that time, I wanted to eat sushi 🍣, so I decided to make "THE SUSHI-WARE LICENSE".
+I was interested in ["THE BEER-WARE LICENSE"], but I am 19 years old! (Japanese law does not permit the drinking of alcohol 🍺 under 20.) I needed a license like "THE BEER-WARE LICENSE" for myself. At that time, I wanted to eat sushi 🍣, so I decided to make "THE SUSHI-WARE LICENSE".
 
 ["THE BEER-WARE LICENSE"]: https://people.freebsd.org/~phk/
 
-> At all, what is sushi 🍣?
+> Anyway, what is sushi 🍣?
 
-Sushi is a food consisting of cooked vinegared rice (*shari*) combined with other ingredients (*neta*). It is originated in Japan, but now it is known all over the world so that it becomes Emoji 🍣. See also [Wikipedia article](https://en.wikipedia.org/wiki/Sushi).
+Sushi is a food consisting of cooked vinegared rice (*shari*) combined with other ingredients (*neta*). It originated in Japan, but is now known all over the world, enough so that it has become an Emoji 🍣. See also this [Wikipedia article](https://en.wikipedia.org/wiki/Sushi).
 
-> It makes a sense, but I like spaghetti 🍝... Could I modify this license?
+> It makes sense, but I like spaghetti 🍝... Could I modify this license?
 
-**Of course, okay!** In this license, it comes from ["THE BEER-WARE LICENSE"].
+**Of course, okay!** This license itself is based on ["THE BEER-WARE LICENSE"].
 
-> Thanks! I buy you a sushi 🍣 if we meet some day.
+> Thanks! I'll buy you a sushi 🍣 if we meet some day.
 
-Thanks too! I am looking forward to meet you ;)
+Thanks too! I am looking forward to meeting you ;)
 
 ## List of software licensed by this
 
   - [github-sushi-ware-button](https://github.com/MakeNowJust/github-sushi-ware-button) Browser extension to add 🍣 button into GitHub projects (by [@MakeNowJust])
 
-If you apply this license to your software, you cam make a [pull request] to add it to this list.
+If you apply this license to your software, you can make a [pull request] to add it to this list.
 
 [pull request]: https://github.com/MakeNowJust/sushi-ware/pulls
 
 [@MakeNowJust]: https://github.com/MakeNowJust
 
-## Conribute
+## Contribute
 
 If you found:
 
   - a typo
   - a better idea
-  - possible to translate to another languaue
+  - possibility to translate to another language
 
-then you fix it and send [pull request].
+then please fix it and send a [pull request].
 
 ## Copyright
 
