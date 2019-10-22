@@ -75,13 +75,21 @@ Thanks too! I am looking forward to meeting you ;)
 
 ## List of software licensed by this
 
-  - [github-sushi-ware-button](https://github.com/MakeNowJust/github-sushi-ware-button) Browser extension to add 🍣 button into GitHub projects (by [@MakeNowJust])
+  - [bashcached]: memcached server built on bash + socat (by [@MakeNowJust])
+  - [h.js]: 2KB JavaScript Syntax Highlighter (by [@MakeNowJust])
+  - [quine]: Quine Museum (by [@MakeNowJust])
+
+<!-- GitHub account URL -->
+[@MakeNowJust]: https://github.com/MakeNowJust
+
+<!-- software URL -->
+[bashcached]: https://github.com/MakeNowJust/bashcached
+[h.js]: https://h.js.org
+[quine]: https://github.com/MakeNowJust/quine
 
 If you apply this license to your software, you can make a [pull request] to add it to this list.
 
 [pull request]: https://github.com/MakeNowJust/sushi-ware/pulls
-
-[@MakeNowJust]: https://github.com/MakeNowJust
 
 ## Contribute
 
@@ -95,4 +103,4 @@ then please fix it and send a [pull request].
 
 ## Copyright
 
-© TSUYUSATO "[MakeNowJust][@MakeNowJust]" Kitsune <<make.just.on@gmail.com>> 2016
+© TSUYUSATO "[MakeNowJust][@MakeNowJust]" Kitsune <<make.just.on@gmail.com>> 2016-2019
