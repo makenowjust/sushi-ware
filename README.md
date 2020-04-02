@@ -78,14 +78,17 @@ Thanks too! I am looking forward to meeting you ;)
   - [bashcached]: memcached server built on bash + socat (by [@MakeNowJust])
   - [h.js]: 2KB JavaScript Syntax Highlighter (by [@MakeNowJust])
   - [quine]: Quine Museum (by [@MakeNowJust])
+  - [awesome-sushi]: A curated list of awesome sushi omakase in Korea (by [@738])
 
 <!-- GitHub account URL -->
 [@MakeNowJust]: https://github.com/MakeNowJust
+[@738]: https://github.com/738
 
 <!-- software URL -->
 [bashcached]: https://github.com/MakeNowJust/bashcached
 [h.js]: https://h.js.org
 [quine]: https://github.com/MakeNowJust/quine
+[awesome-sushi]: https://github.com/738/awesome-sushi
 
 If you apply this license to your software, you can make a [pull request] to add it to this list.
 
